@@ -4,6 +4,7 @@
   "description": "template pokedex html tailwindcss",
   "main": "index.js",
   "scripts": {
+    "start": "live-server public/",
     "build": "postcss public/styles/main.css -o dist/build/main.css",
     "watch:css": "postcss -w public/styles/main.css -o public/build/main.css",
     "test": "npm run test"
