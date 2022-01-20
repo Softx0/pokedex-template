@@ -1,1 +1,0 @@
-# Pokedex Template w/ TaildwindCSS
